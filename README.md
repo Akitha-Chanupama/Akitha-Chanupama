@@ -108,12 +108,10 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=ANALYZING+CODEBASE..." alt="Language Analysis"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&lines=COMPILING+STATS..." alt="Language Analysis"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=1000&color=45B7D1&center=true&vCenter=true&width=500&lines=🔍+LANGUAGE+METRICS+LOADED" alt="Language Analysis"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=2000&color=00D9FF&center=true&vCenter=true&width=500&lines=ANALYZING+CODEBASE...;COMPILING+STATS...;🔍+LANGUAGE+METRICS+LOADED&typeSpeed=0&deleteSpeed=0" alt="Language Analysis"/>
 <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akitha-Chanupama&layout=compact&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10" alt="Top Languages" width="500"/>
-<br><br>
+<br>
 ---
 
 
