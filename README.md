@@ -156,15 +156,6 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 ---
 
 
-
-
-
-
-
-
-
-## 🏆 **Achievement System**
-
 <div align="center">
   
 <br>
