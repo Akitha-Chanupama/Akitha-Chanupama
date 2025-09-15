@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Graduate;Full-Stack+Developer;UI%2FUX+Enthusiast;Clean+Code+Advocate;Agile+Practitioner)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=SOFTWARE+ENGINEERING+GRADUATE;FULL-STACK+DEVELOPER;UI%2FUX+ENTHUSIAST;CLEAN+CODE+ADVOCATOR;AGILE+PRACTITIONER)
   
 </div>
 
@@ -31,13 +31,31 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 
 ---
 
+
+## 🌌 **Enter My Digital Realm**
+
+<div align="center">
+  
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+EXPLORE+MY+PORTFOLIO;💫+INTERACTIVE+EXPERIENCES;⚡+LIVE+PROJECTS+%26+DEMOS;🎯+CUTTING-EDGE+INNOVATIONS" alt="Portfolio Banner"/>
+  </a>
+  
+  <br><br>
+  
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌟_VISIT_MY_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=16213e&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBEOUZGIi8+Cjwvc3ZnPgo=" alt="Portfolio Website" width="300"/>
+  </a>
+  
+</div>
+
+---
 ## 🌐 **Connect With Me**
 
 <div align="center">
   
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Akitha-Chanupama)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Akitha-Chanupama)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Akitha-Chanupama)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/akitha.chanupama)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akitha_chanupama/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akitha-chanupama-478b4126b)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
   
 </div>
