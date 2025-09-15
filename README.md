@@ -107,6 +107,45 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 
 ---
 
+📊 Languages Used
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=ANALYZING+CODEBASE...;COMPILING+STATS...;🔍+LANGUAGE+METRICS+LOADED" alt="Language Analysis"/>
+<br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akitha-Chanupama&layout=compact&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10" alt="Top Languages" width="500"/>
+<br><br>
+  <table>
+    <tr>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <br><sub><b>35%</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <br><sub><b>22%</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <br><sub><b>18%</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <br><sub><b>12%</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+        <br><sub><b>8%</b></sub>
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://img.shields.io/badge/Others-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBEOUZGIi8+Cjwvc3ZnPgo="/>
+        <br><sub><b>5%</b></sub>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&duration=4000&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=📈+CONSTANTLY+EVOLVING+TECH+STACK;💡+LEARNING+%26+ADAPTING+NEW+LANGUAGES;🚀+POLYGLOT+PROGRAMMER+IN+ACTION" alt="Language Growth"/>
+</div>
+
+---
 
 
 ## ⚡ **System Configuration**
