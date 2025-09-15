@@ -14,14 +14,41 @@
 
 ---
 
-## 🎯 **Mission Statement**
-
-> *"Crafting digital experiences that bridge imagination and reality through clean, scalable, and innovative solutions."*
-
-Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** specializing in **frontend & full-stack development**. I architect **responsive, scalable applications** while championing **modern UI/UX principles** and **agile methodologies**.
+## 👨‍💻 **About Me**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🚀 Software Engineer</h3>
+        <p>Transforming ideas into elegant, scalable solutions</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>💡 Innovation Driven</h3>
+        <p>Pushing boundaries with cutting-edge technologies</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎨 UI/UX Focused</h3>
+        <p>Creating intuitive and beautiful user experiences</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>⚡ Performance Optimized</h3>
+        <p>Building fast, efficient, and maintainable applications</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** specializing in **frontend & full-stack development**. I transform complex requirements into clean, scalable applications while maintaining exceptional code quality and user experience standards.
+
+<div align="center">
+  
+  **🎯 Current Focus:** Building next-generation web applications with modern frameworks  
+  **💼 Expertise:** Full-Stack Development, UI/UX Design, Agile Methodologies  
+  **🌱 Learning:** Advanced Cloud Architecture & DevOps Practices  
+  
 </div>
 
 ---
