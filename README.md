@@ -122,15 +122,15 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 
 ## 🎯 **Current Focus**
 
-```javascript
-const akitha = {
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C#"],
-    frameworks: ["React", "Node.js", "Flutter", "Express.js"],
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-```
+<div align="center">
+  
+  **💻 Languages:** JavaScript, TypeScript, Python, Java, C#  
+  **🚀 Frameworks:** React, Node.js, Flutter, Express.js  
+  **🏗️ Architecture:** Microservices, Event-Driven, Serverless  
+  **🎯 Current Goal:** Building scalable full-stack applications  
+  **🐛 Fun Fact:** I debug with console.log() and I'm not ashamed!  
+  
+</div>
 
 ---
 
