@@ -15,11 +15,11 @@
 
 ---
 
-## 🎯 **Mission Statement**
+🎯 **Mission Statement**
 
 > *"Crafting digital experiences that bridge imagination and reality through clean, scalable, and innovative solutions."*
 
-Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** specializing in **frontend & full-stack development**. I architect **responsive, scalable applications** while championing **modern UI/UX principles** and **agile methodologies**.
+Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering graduate** specializing in **frontend & full-stack development**. I architect **responsive, scalable applications** while championing **modern UI/UX principles** and **agile methodologies**.
 
 <div align="center">
   
