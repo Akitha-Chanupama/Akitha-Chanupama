@@ -155,16 +155,236 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 
 ---
 
-## 🏆 **Achievements Unlocked**
+# 🚀 Welcome to My Digital Universe
+
+<div align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/assets/header-banner.gif" alt="Futuristic Developer Banner" width="100%" height="300"/>
+</div>
 
 <div align="center">
   
-  🎓 **Software Engineering Graduate**  
-  🚀 **Full-Stack Developer**  
-  🎨 **UI/UX Enthusiast**  
-  ⚡ **Clean Code Advocate**  
-  📱 **Mobile App Developer**  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Graduate;Full-Stack+Developer;UI%2FUX+Enthusiast;Clean+Code+Advocate;Agile+Practitioner)
+  
+</div>
 
+---
+
+## 🎯 **Mission Statement**
+
+> *"Crafting digital experiences that bridge imagination and reality through clean, scalable, and innovative solutions."*
+
+Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** specializing in **frontend & full-stack development**. I architect **responsive, scalable applications** while championing **modern UI/UX principles** and **agile methodologies**.
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Akitha-Chanupama&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+  ![GitHub followers](https://img.shields.io/github/followers/Akitha-Chanupama?color=00d9ff&style=for-the-badge&label=FOLLOWERS)
+  ![GitHub User's stars](https://img.shields.io/github/stars/Akitha-Chanupama?color=00d9ff&style=for-the-badge&label=STARS)
+  
+</div>
+
+---
+
+## 🌌 **Enter My Digital Realm**
+
+<div align="center">
+  
+  <a href="https://akithachanupama.com" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+EXPLORE+MY+PORTFOLIO;💫+INTERACTIVE+EXPERIENCES;⚡+LIVE+PROJECTS+%26+DEMOS;🎯+CUTTING-EDGE+INNOVATIONS" alt="Portfolio Banner"/>
+  </a>
+  
+  <br><br>
+  
+  <a href="https://akithachanupama.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌟_VISIT_MY_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=16213e&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBEOUZGIi8+Cjwvc3ZnPgo=" alt="Portfolio Website" width="300"/>
+  </a>
+  
+</div>
+
+---
+
+## 🌐 **Connect With Me**
+
+<div align="center">
+  
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Akitha-Chanupama)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Akitha-Chanupama)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Akitha-Chanupama)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
+  
+</div>
+
+---
+
+## ⚡ **Tech Arsenal**
+
+<div align="center">
+
+### **🔥 Core Technologies**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### **🎨 Frontend Mastery**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### **🛠️ Backend & Mobile**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **🗄️ Database & Cloud**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **🎯 Tools & Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+</div>
+
+---
+
+## 📊 **Performance Analytics**
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Akitha's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=Akitha-Chanupama&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Akitha's Streak Stats"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akitha-Chanupama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most Used Languages"/>
+</div>
+
+---
+
+## ⚡ **System Configuration**
+
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=💻+CORE_LANGUAGES_LOADED;⚡+FRAMEWORKS_OPTIMIZED;🏗️+ARCHITECTURE_DEPLOYED" alt="System Status"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akitha-Chanupama&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&custom_title=⏱️+DEV+TIME" alt="Coding Time"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/STACK-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>JS • TS • PY • JAVA • C#</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/FRONTEND-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>React • Flutter • Next.js</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/BACKEND-45B7D1?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>Node.js • Express • FastAPI</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/CLOUD-96CEB4?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>Microservices • Serverless</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/FOCUS-FECA57?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>Full-Stack • Scalability</b></sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=🔧+DEBUG_MODE%3A+console.log()+%7C%7C+no_shame;🚀+STATUS%3A+Building+next-gen+applications;💡+MISSION%3A+Code+%2B+Creativity+%3D+Innovation" alt="Status Messages"/>
+  
+</div>
+
+---
+
+## 🏆 **Achievement System**
+
+<div align="center">
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=500&lines=🎖️+LEVEL+UP+COMPLETE;⭐+NEW+SKILLS+UNLOCKED;🔓+ACHIEVEMENTS+LOADED" alt="Achievement Header"/>
+  
+  <br><br>
+  
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/🎓-GRADUATE-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+        <br><sub><b>Software Engineering</b></sub>
+        <br><sub>✨ <em>Knowledge Foundation</em></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/🚀-DEVELOPER-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+        <br><sub><b>Full-Stack Mastery</b></sub>
+        <br><sub>⚡ <em>End-to-End Solutions</em></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/🎨-DESIGNER-9B59B6?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+        <br><sub><b>UI/UX Enthusiast</b></sub>
+        <br><sub>💫 <em>User Experience</em></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/⚡-OPTIMIZER-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+        <br><sub><b>Clean Code Advocate</b></sub>
+        <br><sub>🔧 <em>Performance Focused</em></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/📱-INNOVATOR-E74C3C?style=for-the-badge&logoColor=white&labelColor=2C3E50"/>
+        <br><sub><b>Mobile App Creator</b></sub>
+        <br><sub>🌟 <em>Cross-Platform</em></sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/XP_EARNED-999999?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZENzAwIi8+Cjwvc3ZnPgo="/>
+        <br><sub><b>10,000+ Hours Coded</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/COMBO_MULTIPLIER-999999?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTFIMTVMMTMgMTNIMTFMOSAxMVoiIGZpbGw9IiM0RUNEQUM0Ii8+CjxwYXRoIGQ9Ik0yMSAxNlY0QTIgMiAwIDAwMTkgMkg1QzMuOSAyIDMgMi45IDMgNFYxNkMzIDE3LjEgMy45IDE4IDUgMThIMTlDMjAuMSAxOCAyMSAxNy4xIDIxIDE2WiIgc3Ryb2tlPSIjNEVDREE0IiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz4KPC9zdmc+"/>
+        <br><sub><b>Frontend + Backend</b></sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/POWER_UP-999999?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEzIDJMMTEgN0g2TDEwIDIyTDEzIDlIMThMMTMgMloiIGZpbGw9IiNGMzlDMTIiLz4KPC9zdmc+"/>
+        <br><sub><b>Agile Methodology</b></sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=4000&pause=1000&color=666666&center=true&vCenter=true&width=700&lines=🎮+NEXT+ACHIEVEMENT%3A+Cloud+Architecture+Master;🔥+STREAK%3A+Continuous+Learning+%26+Innovation;💎+RARE+SKILL%3A+Debugging+with+Style" alt="Next Achievements"/>
+  
 </div>
 
 ---
