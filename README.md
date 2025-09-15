@@ -40,10 +40,10 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+EXPLORE+MY+PORTFOLIO;💫+INTERACTIVE+EXPERIENCES;⚡+LIVE+PROJECTS+%26+DEMOS;🎯+CUTTING-EDGE+INNOVATIONS" alt="Portfolio Banner"/>
   </a>
   
-  <br><br>
+  <br>
   
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌟_VISIT_MY_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=16213e&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBEOUZGIi8+Cjwvc3ZnPgo=" alt="Portfolio Website" width="300"/>
+  <a href="https://akithachanupama.com" target="_blank">
+    <img src="https://img.shields.io/badge/_VISIT_MY_PERSONAL_WEBSITE-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=16213e&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBEOUZGIi8+Cjwvc3ZnPgo=" alt="Portfolio Website" width="300"/>
   </a>
   
 </div>
