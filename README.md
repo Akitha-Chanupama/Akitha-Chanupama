@@ -113,16 +113,12 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=💻+CORE_LANGUAGES_LOADED;⚡+FRAMEWORKS_OPTIMIZED;🏗️+ARCHITECTURE_DEPLOYED" alt="System Status"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akitha-Chanupama&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&custom_title=⏱️+DEV+TIME" alt="Coding Time"/>
-      </td>
-    </tr>
-  </table>
+  
+
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=💻+CORE_LANGUAGES_LOADED;⚡+FRAMEWORKS_OPTIMIZED;🏗️+ARCHITECTURE_DEPLOYED" alt="System Status"/>
+
+  
   
   <br>
   
