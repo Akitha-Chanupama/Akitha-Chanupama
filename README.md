@@ -15,11 +15,7 @@
 
 ---
 
-### 📊 **Live Coding Activity**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akitha-Chanupama&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-### ⏰ **Coding Time Tracker** (if you use WakaTime)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff" alt="Coding Activity" width="500"/>
 
 ## 🎯 **Mission Statement**
 
@@ -65,6 +61,15 @@ Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering gradua
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akitha-chanupama-478b4126b)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
   
+</div>
+
+---
+
+### 📊 **Live Coding Activity**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akitha-Chanupama&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
 </div>
 
 ---
