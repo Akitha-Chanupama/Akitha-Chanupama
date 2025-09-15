@@ -112,6 +112,7 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akitha-Chanupama&layout=compact&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10" alt="Top Languages" width="500"/>
 <br>
+</div>  
 ---
 
 
