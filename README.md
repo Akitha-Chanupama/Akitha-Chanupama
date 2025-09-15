@@ -65,7 +65,6 @@ Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering gradua
 
 ---
 
-### 📊 **Live Coding Activity**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akitha-Chanupama&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
@@ -73,6 +72,19 @@ Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering gradua
 </div>
 
 ---
+
+## 🗺️ **Visitor Locations**
+
+<div align="center">
+  
+  <img src="https://visitcount.itsvg.in/api?id=Akitha-Chanupama&label=Profile%20Views&color=0&icon=5&pretty=true" />
+  
+  <br><br>
+  
+  <!-- Add visitor map if you want to track geographic visits -->
+  <img src="https://clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=YOUR_MAP_ID&co=ffffff&ct=808080" alt="Visitor Map"/>
+  
+</div>
 
 ## ⚡ **Tech Arsenal**
 
