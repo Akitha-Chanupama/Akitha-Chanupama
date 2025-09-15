@@ -107,28 +107,53 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 
 ---
 
-## 📊 **Performance Analytics**
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Akitha's GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=Akitha-Chanupama&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Akitha's Streak Stats"/>
-</div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akitha-Chanupama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most Used Languages"/>
-</div>
-
----
-
-## 🎯 **Current Focus**
+## ⚡ **System Configuration**
 
 <div align="center">
   
-  **💻 Languages:** JavaScript, TypeScript, Python, Java, C#  
-  **🚀 Frameworks:** React, Node.js, Flutter, Express.js  
-  **🏗️ Architecture:** Microservices, Event-Driven, Serverless  
-  **🎯 Current Goal:** Building scalable full-stack applications  
-  **🐛 Fun Fact:** I debug with console.log() and I'm not ashamed!  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=💻+CORE_LANGUAGES_LOADED;⚡+FRAMEWORKS_OPTIMIZED;🏗️+ARCHITECTURE_DEPLOYED" alt="System Status"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Akitha-Chanupama&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&custom_title=⏱️+DEV+TIME" alt="Coding Time"/>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/STACK-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>JS • TS • PY • JAVA • C#</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/FRONTEND-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>React • Flutter • Next.js</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/BACKEND-45B7D1?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>Node.js • Express • FastAPI</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/CLOUD-96CEB4?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>Microservices • Serverless</b></sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/FOCUS-FECA57?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
+        <br><sub><b>Full-Stack • Scalability</b></sub>
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=🔧+DEBUG_MODE%3A+console.log()+%7C%7C+no_shame;🚀+STATUS%3A+Building+next-gen+applications;💡+MISSION%3A+Code+%2B+Creativity+%3D+Innovation" alt="Status Messages"/>
   
 </div>
 
