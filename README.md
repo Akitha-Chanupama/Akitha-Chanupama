@@ -15,6 +15,12 @@
 
 ---
 
+### 📊 **Live Coding Activity**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akitha-Chanupama&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+### ⏰ **Coding Time Tracker** (if you use WakaTime)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff" alt="Coding Activity" width="500"/>
+
 ## 🎯 **Mission Statement**
 
 > *"Crafting digital experiences that bridge imagination and reality through clean, scalable, and innovative solutions."*
