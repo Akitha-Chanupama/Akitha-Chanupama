@@ -206,66 +206,8 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
   
   **Ready to collaborate?** Let's build something **extraordinary** together! 🌟
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=Akitha-Chanupama&color=blueviolet&style=for-the-badge&label=VISITORS)](https://github.com/Akitha-Chanupama)
-  
-</div>
 
----
-
-## 🌌 **Footer**
-
-<div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⚡+POWERED+BY+PASSION;🚀+DRIVEN+BY+INNOVATION;💡+INSPIRED+BY+POSSIBILITIES" alt="Footer Banner"/>
-  
-  <br><br>
-  
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/💻_CODE-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-        <br><sub><b>Crafting Digital Solutions</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🎯_CREATE-45B7D1?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-        <br><sub><b>Building Tomorrow's Tech</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🚀_INNOVATE-96CEB4?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-        <br><sub><b>Pushing Boundaries</b></sub>
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Let's%20connect%20and%20build%20amazing%20things%20together&descAlignY=80&descAlign=center" alt="Footer Wave"/>
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=12&duration=4000&pause=2000&color=666666&center=true&vCenter=true&width=600&lines=© 2025 Akitha Chanupama • Full-Stack Developer;Made with ❤️ and lots of ☕ • Sri Lanka;if (you.liked(this.profile)) return 'star' else 'fork';" alt="Copyright"/>
-  
-  <br>
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=true&count_private=true)
-  
-  <br>
-  
-  ### 🌐 **Let's Connect Across The Digital Universe**
-  
-  <a href="https://www.linkedin.com/in/akitha-chanupama-478b4126b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
-  </a>
-  <a href="mailto:akithachanupama@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Let's Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-  <a href="https://akithachanupama.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Explore My Work-00D9FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBEOUZGIi8+Cjwvc3ZnPgo=&logoColor=white&labelColor=16213e"/>
-  </a>
-  
-  <br><br>
-  
-  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=60&section=footer)
+  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
   
 </div>
 
