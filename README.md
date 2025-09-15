@@ -185,7 +185,7 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
     </tr>
   </table>
   
-  <br>
+  <br><br>
   
 </div>
 
@@ -211,6 +211,4 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
 
 ---
 
-<div align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/footer-wave.svg" width="100%" alt="Footer Wave"/>
-</div>
+
