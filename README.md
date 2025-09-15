@@ -147,7 +147,7 @@ Hi, I'm **Akitha** 👋 — A passionate **Software Engineering graduate** speci
     </tr>
   </table>
   
-  <br>
+
   
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=🔧+DEBUG_MODE%3A+console.log()+%7C%7C+no_shame;🚀+STATUS%3A+Building+next-gen+applications;💡+MISSION%3A+Code+%2B+Creativity+%3D+Innovation" alt="Status Messages"/>
   
