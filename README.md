@@ -55,6 +55,7 @@ Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering gradua
 ## 🌐 **Connect With Me**
 
 <div align="center">
+  <br>
   
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/akitha.chanupama)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akitha_chanupama/)
@@ -73,18 +74,7 @@ Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering gradua
 
 ---
 
-## 🗺️ **Visitor Locations**
 
-<div align="center">
-  
-  <img src="https://visitcount.itsvg.in/api?id=Akitha-Chanupama&label=Profile%20Views&color=0&icon=5&pretty=true" />
-  
-  <br><br>
-  
-  <!-- Add visitor map if you want to track geographic visits -->
-  <img src="https://clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=YOUR_MAP_ID&co=ffffff&ct=808080" alt="Visitor Map"/>
-  
-</div>
 
 ## ⚡ **Tech Arsenal**
 
