@@ -39,7 +39,7 @@ Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering gradua
 
 <div align="center">
   
-  <a href="https://your-website.com" target="_blank">
+  <a href="https://akithachanupama.com" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+EXPLORE+MY+PORTFOLIO;💫+INTERACTIVE+EXPERIENCES;⚡+LIVE+PROJECTS+%26+DEMOS;🎯+CUTTING-EDGE+INNOVATIONS" alt="Portfolio Banner"/>
   </a>
   
