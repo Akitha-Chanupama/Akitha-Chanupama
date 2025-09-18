@@ -76,7 +76,7 @@ Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering gradua
 
 
 
-## ⚡ **Tec Arsenal**
+## ⚡ **Tech Arsenal**
 
 <div align="center">
 
