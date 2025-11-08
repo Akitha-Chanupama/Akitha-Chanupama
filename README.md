@@ -52,7 +52,7 @@ Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering gradua
 </div>
 
 ---
-## 🌐 **Coonnect With Me**
+## 🌐 **Connect With Me**
 
 <div align="center">
   <br>
