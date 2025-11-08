@@ -17,7 +17,7 @@
 
 
 
-## 🎯 **Mission Statement**
+## 🎯 **Misssion Statement**
 
 > *"Crafting digital experiences that bridge imagination and reality through clean, scalable, and innovative solutions."*
 
