@@ -187,11 +187,11 @@ Hi, I'm **Akitha Chanupama** 👋 — A passionate **Software Engineering gradua
   <tr>
     <td align="center" width="30%">
       <img src="https://img.shields.io/badge/XP_EARNED-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Solid0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZENzAwIi8+Cjwvc3ZnPgo="/>
-      <br><sub><b>10,000+ Hours Coded</b></sub>
+      <br><sub><b>8,450+ Hours Coded</b></sub>
     </td>
     <td align="center" width="40%">
       <img src="https://img.shields.io/badge/COMBO_MULTIPLIER-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTFIMTVMMTMgMTNIMTFMOSAxMVoiIGZpbGw9IiM0RUNEQUM0Ii8+CjxwYXRoIGQ9Ik0yMSAxNlY0QTIgMiAwIDAwMTkgMkg1QzMuOSAyIDMgMi45IDMgNFYxNkMzIDE3LjEgMy45IDE4IDUgMThIMTlDMjAuMSAxOCAyMSAxNy4xIDIxIDE2WiIgc3Ryb2tlPSIjNEVDREE0IiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz4KPC9zdmc+"/>
-      <br><sub><b>Frontend + Backend</b></sub>
+      <br><sub><b>Frontend + Backend + Database</b></sub>
     </td>
     <td align="center" width="30%">
       <img src="https://img.shields.io/badge/POWER_UP-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEzIDJMMTEgN0g2TDEwIDIyTDEzIDlIMThMMTMgMloiIGZpbGw9IiNGMzlDMTIiLz4KPC9zdmc+"/>
