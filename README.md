@@ -74,52 +74,10 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
   <img src="https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="480"/>
 
-  <br><br>
+  <br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Akitha-Chanupama&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=10" alt="GitHub Streak" width="480"/>
 
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akitha-Chanupama&layout=compact&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10" alt="Top Languages" width="480"/>
-
-</div>
-
----
-
-## 🧠 **Currently Leveling Up**
-
-<div align="center">
-  <br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Integrations+🤖;DevOps+%26+Docker+🐳;Cloud+Architecture+(AWS%2FGCP)+☁️" alt="Currently Learning"/>
-
-  <br>
-
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/AI_/_ML-00D9FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117"/>
-        <br><br>
-        <sub>Integrating AI into full-stack apps</sub>
-        <br>
-        <img src="https://img.shields.io/badge/IN_PROGRESS-FFD700?style=flat-square&logoColor=white&labelColor=0d1117"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/DevOps_/_Docker-4ECDC4?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117"/>
-        <br><br>
-        <sub>Containerization & CI/CD pipelines</sub>
-        <br>
-        <img src="https://img.shields.io/badge/IN_PROGRESS-FFD700?style=flat-square&logoColor=white&labelColor=0d1117"/>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/Cloud_(AWS%2FGCP)-FF6B6B?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
-        <br><br>
-        <sub>Scalable cloud deployments</sub>
-        <br>
-        <img src="https://img.shields.io/badge/IN_PROGRESS-FFD700?style=flat-square&logoColor=white&labelColor=0d1117"/>
-      </td>
-    </tr>
-  </table>
 
 </div>
 
