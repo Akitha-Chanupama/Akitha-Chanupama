@@ -11,11 +11,7 @@
   <img src="https://github.com/Akitha-Chanupama/Akitha-Chanupama/blob/main/Dark%20Blue%20Abstract%20Technology%20LinkedIn%20Banner%20(1).jpg" alt="Futuristic Developer Banner" width="100%" height="300"/>
 </div>
 
-
-
 ---
-
-
 
 ## 🎯 **Mission Statement**
 
@@ -31,9 +27,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
   
 </div>
 
-
 ---
-
 
 ## 🌌 **Enter My Digital Realm**
 
@@ -52,6 +46,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 </div>
 
 ---
+
 ## 🌐 **Connect With Me**
 
 <div align="center">
@@ -66,15 +61,62 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 ---
 
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akitha-Chanupama&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="480"/>
+
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akitha-Chanupama&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=10" alt="GitHub Streak" width="480"/>
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akitha-Chanupama&layout=compact&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10" alt="Top Languages" width="480"/>
 
 </div>
 
 ---
 
+## 🚀 **Projects at a Glance**
 
+<div align="center">
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/TOTAL_PROJECTS-00D9FF?style=for-the-badge&labelColor=0d1117"/>
+        <br><br>
+        <h2><b>50+</b></h2>
+        <sub>Across all engagements</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/PUBLIC_REPOS-4ECDC4?style=for-the-badge&labelColor=0d1117"/>
+        <br><br>
+        <h2><b>24</b></h2>
+        <sub>Public + Private on GitHub</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/ENTERPRISE_CLIENTS-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
+        <br><br>
+        <h2><b>🇱🇰 LK</b></h2>
+        <sub>Large-scale Sri Lankan companies</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
 
 ## ⚡ **Tech Arsenal**
 
@@ -121,91 +163,6 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=2000&color=00D9FF&center=true&vCenter=true&width=500&lines=ANALYZING+CODEBASE...;COMPILING+STATS...;🔍+LANGUAGE+METRICS+LOADED&typeSpeed=0&deleteSpeed=0" alt="Language Analysis"/>
-<br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akitha-Chanupama&layout=compact&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10" alt="Top Languages" width="500"/>
-<br><br>
-  
-</div>  
-
----
-
-
-
-## ⚡ **System Configuration**
-
-<div align="center">
-  
-  
-
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&width=400&lines=💻+CORE_LANGUAGES_LOADED;⚡+FRAMEWORKS_OPTIMIZED;🏗️+ARCHITECTURE_DEPLOYED" alt="System Status"/>
-
-  
-  
-  <br>
-  
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/STACK-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-        <br><sub><b>JS • TS • PY • JAVA • C#</b></sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/FRONTEND-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-        <br><sub><b>React • Flutter • Next.js</b></sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/BACKEND-45B7D1?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-        <br><sub><b>Node.js • Express • FastAPI</b></sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/CLOUD-96CEB4?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-        <br><sub><b>Microservices • Serverless</b></sub>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/FOCUS-FECA57?style=for-the-badge&logoColor=white&labelColor=1a1a2e"/>
-        <br><sub><b>Full-Stack • Scalability</b></sub>
-      </td>
-    </tr>
-  </table>
-  
-
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=🔧+DEBUG_MODE%3A+console.log()+%7C%7C+no_shame;🚀+STATUS%3A+Building+next-gen+applications;💡+MISSION%3A+Code+%2B+Creativity+%3D+Innovation" alt="Status Messages"/>
-  
-</div>
-
----
-
-
-<div align="center">
-  
-<br>
-  <table>
-  <tr>
-    <td align="center" width="30%">
-      <img src="https://img.shields.io/badge/XP_EARNED-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Solid0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjRkZENzAwIi8+Cjwvc3ZnPgo="/>
-      <br><sub><b>8,450+ Hours Coded</b></sub>
-    </td>
-    <td align="center" width="40%">
-      <img src="https://img.shields.io/badge/COMBO_MULTIPLIER-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTkgMTFIMTVMMTMgMTNIMTFMOSAxMVoiIGZpbGw9IiM0RUNEQUM0Ii8+CjxwYXRoIGQ9Ik0yMSAxNlY0QTIgMiAwIDAwMTkgMkg1QzMuOSAyIDMgMi45IDMgNFYxNkMzIDE3LjEgMy45IDE4IDUgMThIMTlDMjAuMSAxOCAyMSAxNy4xIDIxIDE2WiIgc3Ryb2tlPSIjNEVDREE0IiBzdHJva2Utd2lkdGg9IjIiIGZpbGw9Im5vbmUiLz4KPC9zdmc+"/>
-      <br><sub><b>Frontend + Backend</b></sub>
-    </td>
-    <td align="center" width="30%">
-      <img src="https://img.shields.io/badge/POWER_UP-007ACC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEzIDJMMTEgN0g2TDEwIDIyTDEzIDlIMThMMTMgMloiIGZpbGw9IiNGMzlDMTIiLz4KPC9zdmc+"/>
-      <br><sub><b>Agile Methodology</b></sub>
-    </td>
-  </tr>
-</table>
-  
-  <br>
-  
-</div>
-
----
-
 ## 🌟 **Quote of the Day**
 
 <div align="center">
@@ -220,7 +177,6 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
   ### 🚀 **"Code is like humor. When you have to explain it, it's bad."** 
   
   **Ready to collaborate?** Let's build something **extraordinary** together! 🌟
-  
 
   ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
   
