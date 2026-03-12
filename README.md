@@ -74,10 +74,52 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
   <img src="https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="480"/>
 
-  <br>
+  <br><br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Akitha-Chanupama&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=10" alt="GitHub Streak" width="480"/>
 
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akitha-Chanupama&layout=compact&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10" alt="Top Languages" width="480"/>
+
+</div>
+
+---
+
+## 🧠 **Currently Leveling Up**
+
+<div align="center">
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Integrations+🤖;DevOps+%26+Docker+🐳;Cloud+Architecture+(AWS%2FGCP)+☁️" alt="Currently Learning"/>
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/AI_/_ML-00D9FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117"/>
+        <br><br>
+        <sub>Integrating AI into full-stack apps</sub>
+        <br>
+        <img src="https://img.shields.io/badge/IN_PROGRESS-FFD700?style=flat-square&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/DevOps_/_Docker-4ECDC4?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117"/>
+        <br><br>
+        <sub>Containerization & CI/CD pipelines</sub>
+        <br>
+        <img src="https://img.shields.io/badge/IN_PROGRESS-FFD700?style=flat-square&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Cloud_(AWS%2FGCP)-FF6B6B?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
+        <br><br>
+        <sub>Scalable cloud deployments</sub>
+        <br>
+        <img src="https://img.shields.io/badge/IN_PROGRESS-FFD700?style=flat-square&logoColor=white&labelColor=0d1117"/>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -128,42 +170,25 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 <div align="center">
 
-### **🔥 Core Technologies**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**🔥 Languages**
 
-### **🎨 Frontend Mastery**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cs,c,php,dart&theme=dark)](https://skillicons.dev)
 
-### **🛠️ Backend & Mobile**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**🎨 Frontend**
 
-### **🗄️ Database & Cloud**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+[![Frontend](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite,nextjs,figma&theme=dark)](https://skillicons.dev)
 
-### **🎯 Tools & Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+**🛠️ Backend & Mobile**
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flutter&theme=dark)](https://skillicons.dev)
+
+**🗄️ Databases & Cloud**
+
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,aws,gcp,docker&theme=dark)](https://skillicons.dev)
+
+**🎯 Tools**
+
+[![Tools](https://skillicons.dev/icons?i=figma,postman,git,github,vscode,jira&theme=dark)](https://skillicons.dev)
 
 </div>
 
