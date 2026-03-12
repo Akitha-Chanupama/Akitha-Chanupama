@@ -81,6 +81,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 [![Tech Stack](https://skillicons.dev/icons?i=python,java,cs,c,php,dart,react,js,ts,html,css,tailwind,bootstrap,nextjs,nodejs,express,fastapi,flutter,mysql,mongodb,postgresql,firebase,aws,gcp,docker,figma,postman,git,github,vscode,jira&theme=dark&perline=15)](https://skillicons.dev)
 </div>
+
 ---
 
 <div align="center">
