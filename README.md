@@ -86,6 +86,54 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 ---
 
+## 🧠 **Currently Leveling Up**
+
+<div align="center">
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Integrations+🤖;DevOps+%26+Docker+🐳;Cloud+Architecture+(AWS%2FGCP)+☁️" alt="Currently Learning"/>
+
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/AI_/_ML-00D9FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117"/>
+        <br><br>
+        <sub>Integrating AI into full-stack apps</sub>
+        <br>
+        <img src="https://img.shields.io/badge/IN_PROGRESS-FFD700?style=flat-square&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/DevOps_/_Docker-4ECDC4?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117"/>
+        <br><br>
+        <sub>Containerization & CI/CD pipelines</sub>
+        <br>
+        <img src="https://img.shields.io/badge/IN_PROGRESS-FFD700?style=flat-square&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/Cloud_(AWS%2FGCP)-FF6B6B?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117"/>
+        <br><br>
+        <sub>Scalable cloud deployments</sub>
+        <br>
+        <img src="https://img.shields.io/badge/IN_PROGRESS-FFD700?style=flat-square&logoColor=white&labelColor=0d1117"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=radical&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 🚀 **Projects at a Glance**
 
 <div align="center">
