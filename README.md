@@ -33,7 +33,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-akithachanupama.com-00D9FF?style=for-the-badge&labelColor=0d1117)](https://akithachanupama.com)
+[![Portfolio](https://img.shields.io/badge/🌍_Personal_Portfolio-akithachanupama.com-00D9FF?style=for-the-badge&labelColor=0d1117)](https://akithachanupama.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akitha-chanupama-478b4126b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/akitha.chanupama)
@@ -54,8 +54,8 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 <div align="center">
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&hide_rank=false" alt="GitHub Stats" height="195" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akitha-Chanupama&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=10" alt="GitHub Streak" height="195" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&hide_rank=false" alt="GitHub Stats" height="200" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akitha-Chanupama&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=10" alt="GitHub Streak" height="200" width="48%"/>
 
   <br>
 
@@ -78,10 +78,10 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 ## ⚡ **Tech Arsenal**
 
-<div align="center">
+<div align="center"><br>
 
 [![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,cs,c,php,dart,react,html,css,tailwind,bootstrap,vite,nextjs,nodejs,express,fastapi,flutter,mysql,mongodb,postgresql,firebase,aws,gcp,docker,figma,postman,git,github,vscode,jira&theme=dark&perline=16)](https://skillicons.dev)
-
+<br>
 </div>
 
 ---
@@ -89,7 +89,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 ## 🌟 **Quote of the Day**
 
 <div align="center">
-  <br>
+  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
