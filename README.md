@@ -167,7 +167,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,cs,c,php,dart,react,html,css,tailwind,bootstrap,vite,nextjs,nodejs,express,fastapi,flutter,mysql,mongodb,postgresql,firebase,aws,gcp,docker,figma,postman,git,github,vscode,jira&theme=dark&perline=12)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,cs,c,php,dart,react,html,css,tailwind,bootstrap,vite,nextjs,nodejs,express,fastapi,flutter,mysql,mongodb,postgresql,firebase,aws,gcp,docker,figma,postman,git,github,vscode,jira&theme=dark&perline=15)](https://skillicons.dev)
 
 </div>
 
@@ -191,8 +191,3 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
   ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
   
 </div>
-
-
-
-
-
