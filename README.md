@@ -126,7 +126,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 <div align="center">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies" width="100%"/>
 </div>
 
 ---
