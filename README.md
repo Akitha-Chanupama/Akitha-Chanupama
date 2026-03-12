@@ -72,8 +72,8 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 <div align="center">
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akitha-Chanupama&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=10" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akitha-Chanupama&show_icons=true&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&icon_color=00d9ff&hide_border=false&border_radius=10&include_all_commits=true&count_private=true&hide_rank=false" alt="GitHub Stats" height="195" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akitha-Chanupama&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=10" alt="GitHub Streak" height="195" width="48%"/>
 
   <br><br>
 
@@ -167,7 +167,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 <div align="center">
 
-[![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,cs,c,php,dart,react,html,css,tailwind,bootstrap,vite,nextjs,nodejs,express,fastapi,flutter,mysql,mongodb,postgresql,firebase,aws,gcp,docker,figma,postman,git,github,vscode,jira&theme=dark&perline=15)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,python,java,cs,c,php,dart,react,html,css,tailwind,bootstrap,vite,nextjs,nodejs,express,fastapi,flutter,mysql,mongodb,postgresql,firebase,aws,gcp,docker,figma,postman,git,github,vscode,jira&theme=dark&perline=16)](https://skillicons.dev)
 
 </div>
 
