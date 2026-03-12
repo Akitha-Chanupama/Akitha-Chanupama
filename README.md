@@ -1,7 +1,7 @@
 <div align="center">
 <br>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=SOFTWARE+ENGINEERING+GRADUATE;MOBILE+APP+DEVELOPER;UI%2FUX+ENTHUSIAST;CLEAN+CODE+ADVOCATOR;AGILE+PRACTITIONER)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=SOFTWARE+ENGINEERING+GRADUATE;FULL-STACK+DEVELOPER;UI%2FUX+ENTHUSIAST;CLEAN+CODE+ADVOCATOR;AGILE+PRACTITIONER)
   
 </div>
 
@@ -29,34 +29,16 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 ---
 
-## 🌌 **Enter My Digital Realm**
+## 🌐 **Find Me Online**
 
 <div align="center">
-  
-  <a href="https://akithachanupama.com" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=🚀+EXPLORE+MY+PORTFOLIO;💫+INTERACTIVE+EXPERIENCES;⚡+LIVE+PROJECTS+%26+DEMOS;🎯+CUTTING-EDGE+INNOVATIONS" alt="Portfolio Banner"/>
-  </a>
-  
-  <br>
-  
-  <a href="https://akithachanupama.com" target="_blank">
-    <img src="https://img.shields.io/badge/_VISIT_MY_PERSONAL_WEBSITE-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=16213e&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSIjMDBEOUZGIi8+Cjwvc3ZnPgo=" alt="Portfolio Website" width="300"/>
-  </a>
-  
-</div>
 
----
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-akithachanupama.com-00D9FF?style=for-the-badge&labelColor=0d1117)](https://akithachanupama.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akitha-chanupama-478b4126b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/akitha.chanupama)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akitha_chanupama/)
 
-## 🌐 **Connect With Me**
-
-<div align="center">
-  <br>
-  
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/akitha.chanupama)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akitha_chanupama/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akitha-chanupama-478b4126b)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
-  
 </div>
 
 ---
@@ -81,15 +63,6 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 ---
 
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies" width="100%"/>
-</div>
-
----
 
 ## 🚀 **Projects at a Glance**
 
