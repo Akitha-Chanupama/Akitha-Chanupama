@@ -126,38 +126,18 @@ Hi, I'm **Akitha Chanupama** 👋 - A passionate **Software Engineering graduate
 
 <div align="center">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=radical&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## 🚀 **Projects at a Glance**
 
-<div align="center">
-  <br>
+<div align="center"><br>
 
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/TOTAL_PROJECTS-00D9FF?style=for-the-badge&labelColor=0d1117"/>
-        <br><br>
-        <h2><b>50+</b></h2>
-        <sub>Across all engagements</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/PUBLIC_REPOS-4ECDC4?style=for-the-badge&labelColor=0d1117"/>
-        <br><br>
-        <h2><b>24</b></h2>
-        <sub>Public + Private on GitHub</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/ENTERPRISE_CLIENTS-FF6B6B?style=for-the-badge&labelColor=0d1117"/>
-        <br><br>
-        <h2><b>🇱🇰 LK</b></h2>
-        <sub>Large-scale Sri Lankan companies</sub>
-      </td>
-    </tr>
-  </table>
+  ![Total Projects](https://img.shields.io/badge/TOTAL_PROJECTS-50+-00D9FF?style=for-the-badge&labelColor=0d1117)
+  ![Repos](https://img.shields.io/badge/REPOSITORIES-24-4ECDC4?style=for-the-badge&labelColor=0d1117)
+  ![Clients](https://img.shields.io/badge/ENTERPRISE_CLIENTS-🇱🇰_Sri_Lanka-FF6B6B?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
