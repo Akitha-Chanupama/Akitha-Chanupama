@@ -86,7 +86,9 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 <div align="center">
   
-  ### 🚀 **"Code is like humor. When you have to explain it, it's bad."** 
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Turning+curiosity+into+code.;Building+things+that+live+in+your+pocket.;One+commit+at+a+time." />
+</p>
   
   **Ready to collaborate?** Let's build something **extraordinary** together! 🌟
 
