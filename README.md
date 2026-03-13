@@ -87,9 +87,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 <div align="center">
   
 <p align="center">
-📱 Building apps that live in your pocket  
-⚡ Turning ideas into code  
-🚀 Always learning, always shipping
+**Building apps that live in your pocket | Turning ideas into code | Always learning, always shipping**
 </p>
   
 **Got an idea?** Let’s turn it into something real.
