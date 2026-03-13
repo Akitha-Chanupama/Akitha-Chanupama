@@ -86,9 +86,8 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 <div align="center">
   
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Turning+curiosity+into+code.; Building+things+that+live+in+your+pocket.;One+commit+at+a+time." />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Turning+curiosity+into+code.;Building+things+that+live+in+your+pocket.;One+commit+at+a+time." />
+
   
 **Got an idea?** Let’s turn it into something real.
  
