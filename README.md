@@ -90,7 +90,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 **<** **Building apps that live in your pocket** **||** **Turning ideas into code** **||** **Always learning, always shipping** **>**
 <br>
   
-**Got an idea?** Let’s turn it into something real.
+**Got an idea?** Let’s turn it into 'something real'
  
   ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
   
