@@ -14,7 +14,7 @@
 
 ## 🎯 **Mission Statement**
 
-> *"From pixel-perfect mobile apps to robust server-side systems — I build experiences that scale."*
+> *"From pixel-perfect mobile apps to robust server-side systems -> I build experiences that scale."*
 
 Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed with mobile-first development and clean backend logic. I have a track record of delivering production apps for large-scale enterprises in Sri Lanka, specializing in Flutter & React Native on the frontend and PHP & Node.js on the backend. I don't just write code, I architect experiences that users love and systems that developers respect.
 
