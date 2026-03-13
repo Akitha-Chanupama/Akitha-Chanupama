@@ -87,11 +87,11 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 <div align="center">
   
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Turning+curiosity+into+code.;Building+things+that+live+in+your+pocket.;One+commit+at+a+time." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Turning+curiosity+into+code.; Building+things+that+live+in+your+pocket.;One+commit+at+a+time." />
 </p>
   
-  **Ready to collaborate?** Let's build something **extraordinary** together! 🌟
-
+**Got an idea?** Let’s turn it into something real.
+ 
   ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
   
 </div>
