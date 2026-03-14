@@ -67,7 +67,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 <div align="center"><br>
 
-  ![Total Projects](https://img.shields.io/badge/TOTAL_PROJECTS-50+-00D9FF?style=for-the-badge&labelColor=0d1117)
+  ![Total Projects](https://img.shields.io/badge/TOTAL_PROJECTS-55+-00D9FF?style=for-the-badge&labelColor=0d1117)
   ![Repos](https://img.shields.io/badge/REPOSITORIES-28-4ECDC4?style=for-the-badge&labelColor=0d1117)
   ![Clients](https://img.shields.io/badge/ENTERPRISE_CLIENTS-🇱🇰_Sri_Lanka-FF6B6B?style=for-the-badge&labelColor=0d1117)
 
