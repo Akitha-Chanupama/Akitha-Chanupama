@@ -70,41 +70,78 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <br>
+      <div>
+        <img src="https://img.shields.io/badge/MOBILE_APP-00D9FF?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/12_PHASES-FF6B6B?style=flat-square&labelColor=0d1117"/>
+      </div>
       <h3>🛡️ Scam Radar</h3>
-      <p>A 12-phase Flutter app for detecting, reporting, and tracking scam messages and numbers across Sri Lanka. Features an interactive scam heatmap, OCR screenshot scanning, rule-based scoring with a documented AI upgrade path, and push notifications.</p>
+      <p><em>Protecting Sri Lankans from digital fraud, one report at a time.</em></p>
+      <p>A production-grade Flutter app with a 12-phase architecture for detecting, reporting, and visualising scam activity nationwide. Features OCR screenshot scanning, an interactive heatmap, rule-based threat scoring with a documented AI upgrade path, and real-time push notifications.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
         <img src="https://img.shields.io/badge/Riverpod-00D9FF?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/flutter__map-FF6B6B?style=flat-square&logoColor=white"/>
+      </p>
+      <p>
+        <code>State Management</code> &nbsp; <code>OCR</code> &nbsp; <code>Dark Mode</code> &nbsp; <code>Maps</code>
       </p>
     </td>
     <td width="50%" valign="top">
+      <br>
+      <div>
+        <img src="https://img.shields.io/badge/WEB_APP-4ECDC4?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/AI_POWERED-FF6B6B?style=flat-square&labelColor=0d1117"/>
+      </div>
       <h3>📄 AI Resume Analyser</h3>
-      <p>Web app that extracts text from uploaded PDF resumes, analyses skills against a target job description, and returns an ATS-like match score with actionable improvement suggestions.</p>
+      <p><em>Your resume, scored like a recruiter's ATS — but smarter.</em></p>
+      <p>Upload a PDF resume and paste a job description — the app extracts text, maps skills, and returns a detailed ATS-style match score with prioritised suggestions to boost your chances before you even hit apply.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/PDF_Parsing-4ECDC4?style=flat-square&logoColor=white"/>
+      </p>
+      <p>
+        <code>Resume Parsing</code> &nbsp; <code>Skill Matching</code> &nbsp; <code>ATS Scoring</code>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <br>
+      <div>
+        <img src="https://img.shields.io/badge/MOBILE_APP-00D9FF?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/SOCIAL_IMPACT-4ECDC4?style=flat-square&labelColor=0d1117"/>
+      </div>
       <h3>🌾 AgriSaviya</h3>
-      <p>A React Native + Firebase mobile app built to empower Sri Lankan farmers with digital tools that address real agricultural challenges — bridging the gap between traditional farming and modern tech.</p>
+      <p><em>Putting modern tech in the hands of Sri Lankan farmers.</em></p>
+      <p>A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built with accessibility in mind, bridging the gap between traditional agriculture and digital tools — from crop guidance to market connectivity.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Sri_Lanka_🇱🇰-Social_Impact-4ECDC4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/🇱🇰_Sri_Lanka-impact-4ECDC4?style=flat-square"/>
+      </p>
+      <p>
+        <code>AgriTech</code> &nbsp; <code>Real-time DB</code> &nbsp; <code>Offline-first UX</code>
       </p>
     </td>
     <td width="50%" valign="top">
+      <br>
+      <div>
+        <img src="https://img.shields.io/badge/WEB_APP-4ECDC4?style=flat-square&labelColor=0d1117"/>
+        <img src="https://img.shields.io/badge/ZERO_DEPENDENCIES-FF6B6B?style=flat-square&labelColor=0d1117"/>
+      </div>
       <h3>🔐 JWT Flow</h3>
-      <p>An interactive single-page app that teaches JWT authentication through an 8-step animated walkthrough. Zero external UI libraries — pure CSS animations, built with Vite + React 19 to prove you don't need a framework to make something beautiful.</p>
+      <p><em>Authentication demystified — step by step, frame by frame.</em></p>
+      <p>An 8-step interactive walkthrough that teaches JWT authentication visually. No UI libraries, no shortcuts — pure CSS animations and React 19, proving that deep browser mastery beats dependency bloat every time. Built to teach, built to impress.</p>
       <p>
         <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Pure_CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      <p>
+        <code>Auth Education</code> &nbsp; <code>CSS Animations</code> &nbsp; <code>Zero UI Libs</code>
       </p>
     </td>
   </tr>
