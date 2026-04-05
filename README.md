@@ -73,13 +73,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
       <h3>🛡️ Scam Radar</h3>
       <p>A production-grade Flutter app with a 12-phase architecture for detecting, reporting, and visualising scam activity nationwide. Features OCR screenshot scanning, an interactive heatmap, rule-based threat scoring with a documented AI upgrade path, and real-time push notifications.</p>
       <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Riverpod-00D9FF?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/flutter__map-FF6B6B?style=flat-square&logoColor=white"/>
-      </p>
-      <p>
-        <code>State Management</code> &nbsp; <code>OCR</code> &nbsp; <code>Dark Mode</code> &nbsp; <code>Maps</code>
+        <code>Flutter</code> &nbsp; <code>OCR</code> &nbsp; <code>Dark Mode</code> &nbsp; <code>Maps</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -87,12 +81,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
       <p><em>Your resume, scored like a recruiter's ATS — but smarter.</em></p>
       <p>Upload a PDF resume and paste a job description — the app extracts text, maps skills, and returns a detailed ATS-style match score with prioritised suggestions to boost your chances before you even hit apply.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PDF_Parsing-4ECDC4?style=flat-square&logoColor=white"/>
-      </p>
-      <p>
-        <code>Resume Parsing</code> &nbsp; <code>Skill Matching</code> &nbsp; <code>ATS Scoring</code>
+        <code>React</code> &nbsp; <code>Python</code> &nbsp; <code>Skill Matching</code> &nbsp; <code>ATS Scoring</code>
       </p>
     </td>
   </tr>
@@ -102,12 +91,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
       <p><em>Putting modern tech in the hands of Sri Lankan farmers.</em></p>
       <p>A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built with accessibility in mind, bridging the gap between traditional agriculture and digital tools — from crop guidance to market connectivity.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/🇱🇰_Sri_Lanka-impact-4ECDC4?style=flat-square"/>
-      </p>
-      <p>
-        <code>AgriTech</code> &nbsp; <code>Real-time DB</code> &nbsp; <code>Offline-first UX</code>
+        <code>React Native</code> &nbsp; <code>Firebase</code> &nbsp; <code>Offline-first UX</code> &nbsp; <code>Farmer First</code>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -115,12 +99,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
       <p><em>Authentication demystified — step by step, frame by frame.</em></p>
       <p>An 8-step interactive walkthrough that teaches JWT authentication visually. No UI libraries, no shortcuts — pure CSS animations and React 19, proving that deep browser mastery beats dependency bloat every time. Built to teach, built to impress.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pure_CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
-      <p>
-        <code>Auth Education</code> &nbsp; <code>CSS Animations</code> &nbsp; <code>Zero UI Libs</code>
+        <code>React + Vite</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>Auth Education</code> &nbsp; <code>Zero UI Libs</code>
       </p>
     </td>
   </tr>
