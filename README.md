@@ -67,8 +67,6 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 ## 🌟 **Featured Projects**
 
-## 🚀 Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -77,7 +75,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 > Production-grade Flutter app with a 12-phase architecture for detecting, reporting, and visualising scam activity nationwide. Features OCR screenshot scanning, an interactive heatmap, rule-based threat scoring, and real-time push notifications.
 
 `Flutter` · `OCR` · `Dark Mode` · `Maps`
-
+<br>
 </td>
 <td width="50%" valign="top">
 
