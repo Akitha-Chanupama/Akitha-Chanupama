@@ -72,7 +72,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 <td width="50%" valign="top">
 
 ### 🛡️ Scam Radar
-> Production-grade Flutter app with a 12-phase architecture for detecting, reporting, and visualising scam activity nationwide. Features OCR screenshot scanning, an interactive heatmap, rule-based threat scoring, and real-time push notifications.
+> Production-grade Flutter app with a 12-phase architecture for detecting, reporting, and visualising scam activity nationwide. Features OCR screenshot scanning, an interactive heatmap, and real-time push notifications.
 
 `Flutter` · `OCR` · `Dark Mode` · `Maps`
 
@@ -90,7 +90,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 <td width="50%" valign="top">
 
 ### 🌾 AgriSaviya
-> A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built with accessibility in mind, bridging traditional agriculture and digital tools, from crop guidance to market connectivity.
+> A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built to bridging traditional agriculture and digital tools, from crop guidance to market connectivity.
 
 `React Native` · `Firebase` · `Offline-first` · `Farmer First`
 
