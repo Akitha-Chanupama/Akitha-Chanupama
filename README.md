@@ -69,17 +69,17 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🛡️ Scam Radar</h3>
       <p>A production-grade Flutter app with a 12-phase architecture for detecting, reporting, and visualising scam activity nationwide. Features OCR screenshot scanning, an interactive heatmap, rule-based threat scoring with a documented AI upgrade path, and real-time push notifications.</p>
       <p>
         <code>Flutter</code> &nbsp; <code>OCR</code> &nbsp; <code>Dark Mode</code> &nbsp; <code>Maps</code>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📄 AI Resume Analyser</h3>
-      <p><em>Your resume, scored like a recruiter's ATS — but smarter.</em></p>
-      <p>Upload a PDF resume and paste a job description — the app extracts text, maps skills, and returns a detailed ATS-style match score with prioritised suggestions to boost your chances before you even hit apply.</p>
+      <p><em>Your resume, scored like a recruiter's ATS - but smarter.</em></p>
+      <p>Upload a PDF resume and paste a job description - the app extracts text, maps skills, and returns a detailed ATS-style match score with prioritised suggestions to boost your chances before you even hit apply.</p>
       <p>
         <code>React</code> &nbsp; <code>Python</code> &nbsp; <code>Skill Matching</code> &nbsp; <code>ATS Scoring</code>
       </p>
@@ -89,15 +89,15 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
     <td width="50%" valign="top">
       <h3>🌾 AgriSaviya</h3>
       <p><em>Putting modern tech in the hands of Sri Lankan farmers.</em></p>
-      <p>A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built with accessibility in mind, bridging the gap between traditional agriculture and digital tools — from crop guidance to market connectivity.</p>
+      <p>A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built with accessibility in mind, bridging the gap between traditional agriculture and digital tools - from crop guidance to market connectivity.</p>
       <p>
         <code>React Native</code> &nbsp; <code>Firebase</code> &nbsp; <code>Offline-first UX</code> &nbsp; <code>Farmer First</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔐 JWT Flow</h3>
-      <p><em>Authentication demystified — step by step, frame by frame.</em></p>
-      <p>An 8-step interactive walkthrough that teaches JWT authentication visually. No UI libraries, no shortcuts — pure CSS animations and React 19, proving that deep browser mastery beats dependency bloat every time. Built to teach, built to impress.</p>
+      <p><em>Authentication demystified - step by step, frame by frame.</em></p>
+      <p>An 8-step interactive walkthrough that teaches JWT authentication visually. No UI libraries, no shortcuts - pure CSS animations and React 19, proving that deep browser mastery beats dependency bloat every time. Built to teach, built to impress.</p>
       <p>
         <code>React + Vite</code> &nbsp; <code>Tailwind CSS</code> &nbsp; <code>Auth Education</code> &nbsp; <code>Zero UI Libs</code>
       </p>
