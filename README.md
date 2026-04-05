@@ -94,7 +94,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 `React Native` · `Firebase` · `Offline-first` · `Farmer First`
 
-</td>
+<br></td>
 <td width="50%" valign="top">
 
 ### 🔐 JWT Flow
