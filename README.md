@@ -34,7 +34,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-akithachanupama.com-00D9FF?style=for-the-badge&labelColor=0d1117)](https://akithachanupama.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akitha-chanupama-478b4126b)
-[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
 
 </div>
 
