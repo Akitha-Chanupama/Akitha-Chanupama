@@ -71,10 +71,6 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
   <tr>
     <td width="50%" valign="top">
       <br>
-      <div>
-        <img src="https://img.shields.io/badge/MOBILE_APP-00D9FF?style=flat-square&labelColor=0d1117"/>
-        <img src="https://img.shields.io/badge/12_PHASES-FF6B6B?style=flat-square&labelColor=0d1117"/>
-      </div>
       <h3>🛡️ Scam Radar</h3>
       <p><em>Protecting Sri Lankans from digital fraud, one report at a time.</em></p>
       <p>A production-grade Flutter app with a 12-phase architecture for detecting, reporting, and visualising scam activity nationwide. Features OCR screenshot scanning, an interactive heatmap, rule-based threat scoring with a documented AI upgrade path, and real-time push notifications.</p>
