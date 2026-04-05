@@ -32,18 +32,10 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍_Personal_Portfolio-akithachanupama.com-00D9FF?style=for-the-badge&labelColor=0d1117)](https://akithachanupama.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akitha-chanupama-478b4126b)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/akitha.chanupama)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akitha_chanupama/)
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-akithachanupama.com-00D9FF?style=for-the-badge&labelColor=0d1117)](https://akithachanupama.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akitha-chanupama-478b4126b)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akithachanupama@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akitha-Chanupama&theme=react-dark&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -61,7 +53,6 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 ---
 
-
 ## 🚀 **Projects at a Glance**
 
 <div align="center"><br>
@@ -71,6 +62,53 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
   ![Clients](https://img.shields.io/badge/ENTERPRISE_CLIENTS-Sri_Lanka_🇱🇰-FF6B6B?style=for-the-badge&labelColor=0d1117)
 
 </div>
+
+---
+
+## 🌟 **Featured Projects**
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Scam Radar</h3>
+      <p>A 12-phase Flutter app for detecting, reporting, and tracking scam messages and numbers across Sri Lanka. Features an interactive scam heatmap, OCR screenshot scanning, rule-based scoring with a documented AI upgrade path, and push notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Riverpod-00D9FF?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 AI Resume Analyser</h3>
+      <p>Web app that extracts text from uploaded PDF resumes, analyses skills against a target job description, and returns an ATS-like match score with actionable improvement suggestions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-Powered-FF6B6B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PDF_Parsing-4ECDC4?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 AgriSaviya</h3>
+      <p>A React Native + Firebase mobile app built to empower Sri Lankan farmers with digital tools that address real agricultural challenges — bridging the gap between traditional farming and modern tech.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Sri_Lanka_🇱🇰-Social_Impact-4ECDC4?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 JWT Flow</h3>
+      <p>An interactive single-page app that teaches JWT authentication through an 8-step animated walkthrough. Zero external UI libraries — pure CSS animations, built with Vite + React 19 to prove you don't need a framework to make something beautiful.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pure_CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -89,7 +127,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 **Building apps that live in your pocket**  **||**  **Turning ideas into code**  **||**  **Always learning, always shipping**
 <br>
   
-**Got an idea?** Let’s turn it into `Something Real`
+**Got an idea?** Let's turn it into `Something Real`
  
   ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=90&section=footer)
   
