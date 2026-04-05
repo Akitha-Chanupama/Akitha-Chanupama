@@ -80,7 +80,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 <td width="50%" valign="top">
 
 ### 📄 AI Resume Analyser
-> Upload a PDF resume and paste a job description — the app extracts text, maps skills, and returns a detailed ATS-style match score with prioritised suggestions to boost your chances before you even hit apply.
+> Upload a PDF resume and paste a job description, the app extracts text, maps skills, and returns a detailed ATS-style match score with prioritised suggestions to boost your chances before you even hit apply.
 
 `React` · `Python` · `Skill Matching` · `ATS Scoring`
 
@@ -90,7 +90,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 <td width="50%" valign="top">
 
 ### 🌾 AgriSaviya
-> A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built with accessibility in mind — bridging traditional agriculture and digital tools, from crop guidance to market connectivity.
+> A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built with accessibility in mind, bridging traditional agriculture and digital tools, from crop guidance to market connectivity.
 
 `React Native` · `Firebase` · `Offline-first` · `Farmer First`
 
@@ -98,7 +98,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 <td width="50%" valign="top">
 
 ### 🔐 JWT Flow
-> An 8-step interactive walkthrough that teaches JWT authentication visually. No UI libraries, no shortcuts — pure CSS animations and React 19, proving that deep browser mastery beats dependency bloat every time.
+> An 8-step interactive walkthrough that teaches JWT authentication visually. No UI libraries, no shortcuts, pure CSS animations and React 19, proving that deep browser mastery beats dependency bloat every time.
 
 `React + Vite` · `Tailwind CSS` · `Auth Education`
 
