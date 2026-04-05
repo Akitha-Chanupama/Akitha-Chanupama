@@ -67,66 +67,46 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 ## 🌟 **Featured Projects**
 
-<div align="center">
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ Scam Radar</h3>
+### 🛡️ Scam Radar
+> Production-grade Flutter app with a 12-phase architecture for detecting, reporting, and visualising scam activity nationwide. Features OCR screenshot scanning, an interactive heatmap, rule-based threat scoring, and real-time push notifications.
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B?style=flat-square&logo=flutter&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-7F77DD?style=flat-square)
-![Dark Mode](https://img.shields.io/badge/Dark%20Mode-1a1a2e?style=flat-square)
-![Maps](https://img.shields.io/badge/Maps-534AB7?style=flat-square)
-
-Production-grade Flutter app with a 12-phase architecture for detecting, reporting, and visualising scam activity nationwide. Features OCR screenshot scanning, an interactive heatmap, rule-based threat scoring, and real-time push notifications.
+`Flutter` · `OCR` · `Dark Mode` · `Maps`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📄 AI Resume Analyser</h3>
+### 📄 AI Resume Analyser
+> Upload a PDF resume and paste a job description — the app extracts text, maps skills, and returns a detailed ATS-style match score with prioritised suggestions to boost your chances before you even hit apply.
 
-![React](https://img.shields.io/badge/React-1D9E75?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0F6E56?style=flat-square&logo=python&logoColor=white)
-![Skill Matching](https://img.shields.io/badge/Skill%20Matching-085041?style=flat-square)
-![ATS Scoring](https://img.shields.io/badge/ATS%20Scoring-04342C?style=flat-square)
-
-Upload a PDF resume and paste a job description — the app extracts text, maps skills, and returns a detailed ATS-style match score with prioritised suggestions to boost your chances before you even hit apply.
+`React` · `Python` · `Skill Matching` · `ATS Scoring`
 
 </td>
 </tr>
-
-<tr><td colspan="2"><br></td></tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌾 AgriSaviya</h3>
+### 🌾 AgriSaviya
+> A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built with accessibility in mind — bridging traditional agriculture and digital tools, from crop guidance to market connectivity.
 
-![React Native](https://img.shields.io/badge/React%20Native-BA7517?style=flat-square&logo=react&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-EF9F27?style=flat-square&logo=firebase&logoColor=white)
-![Offline-first](https://img.shields.io/badge/Offline--first-854F0B?style=flat-square)
-![Farmer First](https://img.shields.io/badge/Farmer%20First-633806?style=flat-square)
-
-A React Native + Firebase mobile app tackling the most pressing daily challenges faced by Sri Lankan farmers. Built with accessibility in mind — bridging traditional agriculture and digital tools, from crop guidance to market connectivity.
+`React Native` · `Firebase` · `Offline-first` · `Farmer First`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🔐 JWT Flow</h3>
+### 🔐 JWT Flow
+> An 8-step interactive walkthrough that teaches JWT authentication visually. No UI libraries, no shortcuts — pure CSS animations and React 19, proving that deep browser mastery beats dependency bloat every time.
 
-![React](https://img.shields.io/badge/React%20+%20Vite-D4537E?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-993556?style=flat-square&logo=tailwindcss&logoColor=white)
-![Auth Education](https://img.shields.io/badge/Auth%20Education-72243E?style=flat-square)
-
-An 8-step interactive walkthrough that teaches JWT authentication visually. No UI libraries, no shortcuts — pure CSS animations and React 19, proving that deep browser mastery beats dependency bloat every time.
+`React + Vite` · `Tailwind CSS` · `Auth Education`
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
