@@ -52,7 +52,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 <div align="center">
   <br>
- <img src="https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=radical&no-bg=true&no-frame=false&column=4" height="200" width="47%"/>
+ <img src="https://github-readme-stats-eight-nu-30.vercel.app/api?username=Akitha-Chanupama&theme=radical&bg_color=0d1117&border_color=00d9ff&title_color=00d9ff&text_color=ffffff&border_radius=10&show_icons=true" height="200" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Akitha-Chanupama&theme=radical&background=0d1117&border=00d9ff&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=888888&border_radius=10" alt="GitHub Streak" height="200" width="50%"/>
 
   <br>
