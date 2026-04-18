@@ -4,7 +4,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=SOFTWARE+ENGINEERING+GRADUATE;MOBILE+APP+DEVELOPER;UI%2FUX+ENTHUSIAST;CLEAN+CODE+ADVOCATOR;AGILE+PRACTITIONER)
 </div>
 
----gg
+---g
 
 <div align="center">
   <img src="https://github.com/Akitha-Chanupama/Akitha-Chanupama/blob/main/Dark%20Blue%20Abstract%20Technology%20LinkedIn%20Banner%20(1).jpg" alt="Futuristic Developer Banner" width="100%" height="300"/>
