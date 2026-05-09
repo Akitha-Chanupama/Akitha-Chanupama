@@ -1,17 +1,14 @@
-<div align="center"><br>
+<!-- <div align="center"><br>
 
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=SOFTWARE+ENGINEERING+GRADUATE;MOBILE+APP+DEVELOPER;UI%2FUX+ENTHUSIAST;CLEAN+CODE+ADVOCATOR;AGILE+PRACTITIONER)
-</div>
+</div> -->
 
-<div align="center"><br>
-
-<p align="center">
+<div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=venom&width=1200&height=300&text=MOBILE%20APP%20DEVELOPER&fontSize=60&fontColor=000000&stroke=00D9FF&strokeWidth=1&color=0:050816,100:00D9FF" 
     width="100%" 
   />
-</p>
 <div>
 
 ---
