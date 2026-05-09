@@ -7,7 +7,10 @@
 <div align="center"><br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MOBILE%20APP%20DEVELOPER&fontSize=68&fontColor=000000&color=0:111827,100:c084fc" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&width=1200&height=320&text=I%20am%20Venom.&fontSize=72&fontColor=04131a&stroke=00D9FF&strokeWidth=2&color=0:020617,100:00D9FF" 
+    width="100%" 
+  />
 </p>
 <div>
 
