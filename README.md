@@ -8,7 +8,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=venom&width=1200&height=300&text=I%20am%20Venom.&fontSize=68&fontColor=000000&stroke=00D9FF&strokeWidth=2&color=0:050816,100:00D9FF" 
+    src="https://capsule-render.vercel.app/api?type=venom&width=1200&height=300&text=MOBILE%20APP%20DEVELOPER&fontSize=60&fontColor=000000&stroke=00D9FF&strokeWidth=1&color=0:050816,100:00D9FF" 
     width="100%" 
   />
 </p>
