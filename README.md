@@ -6,7 +6,7 @@
 
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=venom&width=1200&height=200&text=MOBILE%20APP%20DEVELOPER&fontSize=50&fontColor=000000&stroke=00D9FF&strokeWidth=1&color=0:050816,100:00D9FF" 
+    src="https://capsule-render.vercel.app/api?type=venom&width=1200&height=170&text=MOBILE%20APP%20DEVELOPER&fontSize=40&fontColor=000000&stroke=00D9FF&strokeWidth=1&color=0:050816,100:00D9FF" 
     width="100%" 
   />
 <div>
