@@ -65,6 +65,16 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
+
+</div>
+
+---
+
 ## 🌟 **Featured Projects**
 
 <table>
