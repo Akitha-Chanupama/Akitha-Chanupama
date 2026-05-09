@@ -6,8 +6,9 @@
 
 <div align="center"><br>
 
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=280&section=header&text=MOBILE+APP+DEVELOPER%20render&fontSize=70)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=MOBILE%20APP%20DEVELOPER&fontSize=68&fontColor=000000&color=0:111827,100:c084fc" width="100%" />
+</p>
 <div>
 
 ---
