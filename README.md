@@ -40,7 +40,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats and Achievements**
 
 <div align="center">
   <br>
@@ -68,16 +68,6 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
   ![Total Projects](https://img.shields.io/badge/TOTAL_PROJECTS-60+-00D9FF?style=for-the-badge&labelColor=0d1117)
   ![Repos](https://img.shields.io/badge/REPOSITORIES-35-4ECDC4?style=for-the-badge&labelColor=0d1117)
   ![Clients](https://img.shields.io/badge/ENTERPRISE_CLIENTS-Sri_Lanka_🇱🇰-FF6B6B?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akitha-Chanupama&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)
 
 </div>
 
