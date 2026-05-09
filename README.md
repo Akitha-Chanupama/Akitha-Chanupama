@@ -6,7 +6,7 @@
 
 <div align="center"><br>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=MOBILE+APP+DEVELOPER%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=280&section=header&text=MOBILE+APP+DEVELOPER%20render&fontSize=70)
 
 <div>
 
