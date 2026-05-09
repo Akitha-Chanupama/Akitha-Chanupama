@@ -50,6 +50,9 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
   <br>
 
 </div>
+
+---
+
 <br>
 <div align="center">
 
