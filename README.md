@@ -8,6 +8,8 @@
   <img src="https://github.com/Akitha-Chanupama/Akitha-Chanupama/blob/main/Dark%20Blue%20Abstract%20Technology%20LinkedIn%20Banner%20(1).jpg" alt="Futuristic Developer Banner" width="100%" height="300"/>
 </div>
 
+---
+
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=venom&width=1200&height=170&text=MOBILE%20APP%20DEVELOPER&fontSize=48&fontColor=000000&stroke=00D9FF&strokeWidth=1&color=0:050816,100:00D9FF" 
