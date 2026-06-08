@@ -66,7 +66,7 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 <div align="center">
 
-[![trophy](https://github-trophies.vercel.app/?username=Akitha-Chanupama&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/lucthienphong1120/github-trophies)
+[![trophy](https://github-trophies.vercel.app/?username=Akitha-Chanupama&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=8)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
