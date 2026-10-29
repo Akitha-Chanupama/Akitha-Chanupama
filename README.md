@@ -51,6 +51,17 @@ Hi, I'm **Akitha Chanupama** 👋 - A Software Engineering graduate obsessed wit
 
 ---
 
+<div align="center">
+
+
+[![Sri Lanka Public Contributions](https://user-badge.committers.top/sri_lanka/Akitha-Chanupama.svg)](https://committers.top/sri_lanka)
+[![Sri Lanka All Contributions](https://user-badge.committers.top/sri_lanka_private/Akitha-Chanupama.svg)](https://committers.top/sri_lanka_private)
+
+
+</div>
+
+---
+
 ## 📊 **GitHub Stats and Achievements**
 
 <div align="center">
